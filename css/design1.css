@@ -1,0 +1,25 @@
+#box1{
+    display:inline-block;
+    height: 100px;
+    color: blue;
+    background-color: black;
+}
+#mycontainer{
+    display: flex;
+}
+#box2{
+    display: inline-block;
+    width:90px;
+    height: 500px;
+    color: brown;
+    background-color: green;
+    margin-left: 10px;
+    /* vertical-align: top; */
+}
+#box3{
+    margin-left:3px;
+    display: inline-block;
+    height: 300px;
+    width: 100px ;
+    background-color: blueviolet;
+}
